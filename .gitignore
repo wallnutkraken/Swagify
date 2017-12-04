@@ -1,0 +1,11 @@
+#Visual studio per-user files
+.vs/
+*DotSettings.user
+
+#Binary files/directories
+[Bb]in/
+[Oo]bj/
+*.exe
+*.obj
+packages/
+App_Data/
